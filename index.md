@@ -32,6 +32,10 @@ is a project/version manager for [Godot Engine](https://godotengine.org). It
 keeps track of your Godot Engine projects and what versions of the engine
 they require.
 
+## VR Color Picker
+A virtual reality demo for Godot Engine that includes some basic VR UI patterns.
+[Source code can be found here.](https://gitlab.com/FlyingPiMonster/vr-color-picker)
+
 ## You Forgot to Share Your Google Doc
 [YFTSYGD](https://gitlab.com/FlyingPiMonster/yftsygd) is a reddit bot that
 finds Google Docs links that haven't been shared properly and leaves a comment
