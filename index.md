@@ -27,7 +27,7 @@ program for churches. It aims to be simple and user-friendly.
 # Small Projects
 
 ## Godot Version Manager
-[Godot Version Manager](https://gitlab.com/FlyingPiMonster/godot-version-manager)
+[Godot Version Manager](https://godot-version-manager.flyingpimonster.net)
 is a project/version manager for [Godot Engine](https://godotengine.org). It
 keeps track of your Godot Engine projects and what versions of the engine
 they require.
