@@ -26,8 +26,8 @@ program for churches. It aims to be simple and user-friendly.
 ---
 # Small Projects
 
-## Godot Version Manager
-[Godot Version Manager](https://godot-version-manager.flyingpimonster.net)
+## Hourglass
+[Hourglass](https://flyingpimonster.gitlab.io/hourglass-website)
 is a project/version manager for [Godot Engine](https://godotengine.org). It
 keeps track of your Godot Engine projects and what versions of the engine
 they require.
