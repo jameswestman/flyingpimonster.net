@@ -49,7 +49,7 @@ debugging location-aware applications.
 
 ---
 # Games
-I don't have the attention span to make complicated games, but I still
+I don't have the attention span or the artistic talent to make complicated games, but I still
 enjoy it. All my games are made with [Godot Engine](https://godotengine.org),
 a super awesome open-source game engine.
 
