@@ -19,18 +19,21 @@ James Westman's little corner of the web
 
 # Big Projects
 
-## Floodlight
-[Floodlight](https://floodlight.gitlab.io) is a free, open-source presentation
-program for churches. It aims to be simple and user-friendly.
-
----
-# Small Projects
+## Camera
+[Camera](https://gitlab.gnome.org/jwestman/camera) is a camera app for GNOME and Phosh. It is preinstalled on [Mobian](https://mobian-project.org/).
 
 ## Hourglass
 [Hourglass](https://flyingpimonster.gitlab.io/hourglass-website)
 is a project/version manager for [Godot Engine](https://godotengine.org). It
 keeps track of your Godot Engine projects and what versions of the engine
 they require.
+
+## Floodlight
+[Floodlight](https://floodlight.gitlab.io) is a free, open-source presentation
+program for churches. It aims to be simple and user-friendly.
+
+---
+# Small Projects
 
 ## VR Color Picker
 A virtual reality demo for Godot Engine that includes some basic VR UI patterns.
